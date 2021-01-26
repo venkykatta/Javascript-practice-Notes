@@ -4,6 +4,7 @@
     let mins = date.getMinutes();
     let secs = date.getSeconds();
     let period = "AM";
+    
     if (hrs == 0) {
       hrs = 12;
     } else if (hrs >= 12) {
