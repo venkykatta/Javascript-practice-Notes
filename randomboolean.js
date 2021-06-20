@@ -1,0 +1,1 @@
+var random_boolean = Math.random() < 0.5;

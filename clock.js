@@ -20,4 +20,4 @@
     setTimeout(clock, 1000);
   };
   
-  clock();
+  // clock();
